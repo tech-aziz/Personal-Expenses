@@ -14,5 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-[![jj.png](https://i.postimg.cc/tTD5qfLn/jj.png)](https://postimg.cc/WFFrS9ps)
-[![dd.png](https://i.postimg.cc/k47sd9hd/dd.png)](https://postimg.cc/SXtC60hZ)
+
+Home Page
+[![one.png](https://i.postimg.cc/brtGvVJ9/one.png)](https://postimg.cc/xN9jxRLX)
+
+Add Expenses
+[![two.png](https://i.postimg.cc/wxZbMwFy/two.png)](https://postimg.cc/ThjcHqzf)
+
+Show total Expenses with Chart
+[![three.png](https://i.postimg.cc/8kj0T2dg/three.png)](https://postimg.cc/23NwwXX0)
+
