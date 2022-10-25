@@ -21,7 +21,7 @@ Add Expenses [![two.png](https://i.postimg.cc/wxZbMwFy/two.png)](https://postimg
 
 Show total Expenses with Chart [![three.png](https://i.postimg.cc/8kj0T2dg/three.png)](https://postimg.cc/23NwwXX0)
 
-Landscape mode with switch button Disable [![one.png](https://i.postimg.cc/sgrCTgTr/one.png)](https://postimg.cc/TpCswf87)
+Landscape mode with switch button Disable  [![one.png](https://i.postimg.cc/sgrCTgTr/one.png)](https://postimg.cc/TpCswf87)
 
 Landscape mode with switch button Enable [![two.png](https://i.postimg.cc/bw9cWf52/two.png)](https://postimg.cc/75hWJdwx)
 
